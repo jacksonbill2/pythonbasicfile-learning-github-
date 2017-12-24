@@ -6,7 +6,7 @@ elif name=="back":
 elif name=="idea":
          print(" black dress")
 else:
-         print("please try aggain as far as practicible")
+         print("please try again as far as practicible")
 
 
 input("press enter to exit!")
